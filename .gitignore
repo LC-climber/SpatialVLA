@@ -172,3 +172,9 @@ outputs
 petrel_client
 huggingface/tmp
 pretrained
+
+
+# 模型
+hf_models/*
+
+output/
